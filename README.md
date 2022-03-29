@@ -17,4 +17,6 @@ to ur download folder path
 
 create a shortcut to the file and use it in fastest way 
 
-Example :
+explain :
+
+<img src="explain.gif" alt="ytdl" width="200" />
