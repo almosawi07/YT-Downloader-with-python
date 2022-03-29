@@ -19,4 +19,5 @@ create a shortcut to the file and use it in fastest way
 
 explain :
 
-<img src="explain.gif" alt="ytdl" width="200" />
+<img src="/
+YT-Downloader-with-python/explain.gif" alt="ytdl" width="200" />
