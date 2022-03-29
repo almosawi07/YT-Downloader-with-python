@@ -15,4 +15,6 @@ to ur download folder path
 # To a better exeprience 
 
 
-create a shortcut to the file and use it in fast way 
+create a shortcut to the file and use it in fastest way 
+
+Example :
