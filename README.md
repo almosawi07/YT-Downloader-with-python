@@ -12,6 +12,7 @@ Path = r'C:\Users\person\Videos'
 to ur download folder path 
 
 > Example :
+![Example](/Example.gif)
 
 
 
