@@ -4,7 +4,8 @@ a program can download videos from youtube using pytube library
 
 
 # First Step to use
-
+Download **Python** To Start Using the tool 
+# Download Folder
 change the path
 ```py
 Path = r'C:\Users\person\Videos'
@@ -19,9 +20,12 @@ to ur download folder path
 # To a better exeprience 
 
 
-create a shortcut to the file and use it in fastest way 
+Create a shortcut to the file and make quick use of it
 
 explain :
 
-
 ![explain](/Explain.gif)
+
+
+
+# **Thank You <3**
