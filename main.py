@@ -1,4 +1,4 @@
-from pytube import*
+from pytube import YouTube
 #يسأل عن رابط المقطع
 link = input("Enter the video link:  ")
 ytdata = YouTube(link)
