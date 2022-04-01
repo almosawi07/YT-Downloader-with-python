@@ -5,6 +5,10 @@ a program can download videos from youtube using pytube library
 
 # First Step to use
 Download **Python** To Start Using the tool 
+Then Download **Pytube** using terminal
+```shell
+pip install pytube
+```
 # Download Folder
 change the path
 ```py
